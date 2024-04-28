@@ -7,19 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F361DBB2BDD0209000354C8 /* BackButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F361DBA2BDD0209000354C8 /* BackButtonView.swift */; };
+		4F361DBD2BDD027B000354C8 /* ProductDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F361DBC2BDD027B000354C8 /* ProductDetailView.swift */; };
+		4F361DBF2BDD0E20000354C8 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F361DBE2BDD0E20000354C8 /* TestView.swift */; };
+		4F361DC12BDD1102000354C8 /* ProductDetailBottomSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F361DC02BDD1102000354C8 /* ProductDetailBottomSheet.swift */; };
+		4F361DC32BDD16DC000354C8 /* ShadowModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F361DC22BDD16DC000354C8 /* ShadowModifiers.swift */; };
+		4F361DC52BDD3511000354C8 /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F361DC42BDD3510000354C8 /* CartView.swift */; };
+		4F361DC82BDD364D000354C8 /* BikeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F361DC72BDD364D000354C8 /* BikeViewModel.swift */; };
 		4F47D5602BD9E7FC0067A9CD /* Biker_IOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D55F2BD9E7FC0067A9CD /* Biker_IOSApp.swift */; };
 		4F47D5622BD9E7FC0067A9CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5612BD9E7FC0067A9CD /* ContentView.swift */; };
 		4F47D5642BD9E7FE0067A9CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F47D5632BD9E7FE0067A9CD /* Assets.xcassets */; };
 		4F47D5682BD9E7FE0067A9CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F47D5672BD9E7FE0067A9CD /* Preview Assets.xcassets */; };
+		4F47D5722BD9ECE80067A9CD /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5712BD9ECE80067A9CD /* Color.swift */; };
+		4F47D5742BD9EEB10067A9CD /* Assets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5732BD9EEB10067A9CD /* Assets.swift */; };
+		4F47D5772BD9EF450067A9CD /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5762BD9EF450067A9CD /* DashboardView.swift */; };
+		4F47D5792BD9F11D0067A9CD /* IconButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5782BD9F11D0067A9CD /* IconButtonView.swift */; };
+		4F47D57B2BD9F3DD0067A9CD /* CategoryButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D57A2BD9F3DD0067A9CD /* CategoryButtonView.swift */; };
+		4F47D57D2BD9F72C0067A9CD /* CategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D57C2BD9F72C0067A9CD /* CategoriesView.swift */; };
+		4F47D57F2BD9FD3D0067A9CD /* BackgroundShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D57E2BD9FD3D0067A9CD /* BackgroundShape.swift */; };
+		4F47D5812BDA01070067A9CD /* FeaturedProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5802BDA01070067A9CD /* FeaturedProductView.swift */; };
+		4F47D5832BDA02B40067A9CD /* ProductShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5822BDA02B40067A9CD /* ProductShape.swift */; };
+		4F47D5862BDA2FBE0067A9CD /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5852BDA2FBE0067A9CD /* ProductModel.swift */; };
+		4F47D5882BDA37E70067A9CD /* ProductItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47D5872BDA37E70067A9CD /* ProductItemView.swift */; };
+		4FF0969D2BDEB3AD00EDE4FF /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF0969C2BDEB3AD00EDE4FF /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F361DBA2BDD0209000354C8 /* BackButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackButtonView.swift; sourceTree = "<group>"; };
+		4F361DBC2BDD027B000354C8 /* ProductDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailView.swift; sourceTree = "<group>"; };
+		4F361DBE2BDD0E20000354C8 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		4F361DC02BDD1102000354C8 /* ProductDetailBottomSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailBottomSheet.swift; sourceTree = "<group>"; };
+		4F361DC22BDD16DC000354C8 /* ShadowModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowModifiers.swift; sourceTree = "<group>"; };
+		4F361DC42BDD3510000354C8 /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
+		4F361DC72BDD364D000354C8 /* BikeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeViewModel.swift; sourceTree = "<group>"; };
 		4F47D55C2BD9E7FC0067A9CD /* Biker-IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Biker-IOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F47D55F2BD9E7FC0067A9CD /* Biker_IOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Biker_IOSApp.swift; sourceTree = "<group>"; };
 		4F47D5612BD9E7FC0067A9CD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4F47D5632BD9E7FE0067A9CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F47D5652BD9E7FE0067A9CD /* Biker_IOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Biker_IOS.entitlements; sourceTree = "<group>"; };
 		4F47D5672BD9E7FE0067A9CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4F47D5712BD9ECE80067A9CD /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		4F47D5732BD9EEB10067A9CD /* Assets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assets.swift; sourceTree = "<group>"; };
+		4F47D5762BD9EF450067A9CD /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		4F47D5782BD9F11D0067A9CD /* IconButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconButtonView.swift; sourceTree = "<group>"; };
+		4F47D57A2BD9F3DD0067A9CD /* CategoryButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryButtonView.swift; sourceTree = "<group>"; };
+		4F47D57C2BD9F72C0067A9CD /* CategoriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesView.swift; sourceTree = "<group>"; };
+		4F47D57E2BD9FD3D0067A9CD /* BackgroundShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundShape.swift; sourceTree = "<group>"; };
+		4F47D5802BDA01070067A9CD /* FeaturedProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedProductView.swift; sourceTree = "<group>"; };
+		4F47D5822BDA02B40067A9CD /* ProductShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductShape.swift; sourceTree = "<group>"; };
+		4F47D5852BDA2FBE0067A9CD /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
+		4F47D5872BDA37E70067A9CD /* ProductItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemView.swift; sourceTree = "<group>"; };
+		4FF0969C2BDEB3AD00EDE4FF /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +71,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4F361DC62BDD363B000354C8 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				4F361DC72BDD364D000354C8 /* BikeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		4F47D5532BD9E7FC0067A9CD = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +98,13 @@
 		4F47D55E2BD9E7FC0067A9CD /* Biker-IOS */ = {
 			isa = PBXGroup;
 			children = (
+				4F361DC62BDD363B000354C8 /* ViewModel */,
+				4F47D5842BDA2FB60067A9CD /* Models */,
+				4F47D5752BD9EF1F0067A9CD /* Views */,
+				4F47D5702BD9EB110067A9CD /* Components */,
+				4F47D56F2BD9EB060067A9CD /* Shapes */,
+				4F47D56E2BD9EAFB0067A9CD /* Utils */,
 				4F47D55F2BD9E7FC0067A9CD /* Biker_IOSApp.swift */,
-				4F47D5612BD9E7FC0067A9CD /* ContentView.swift */,
 				4F47D5632BD9E7FE0067A9CD /* Assets.xcassets */,
 				4F47D5652BD9E7FE0067A9CD /* Biker_IOS.entitlements */,
 				4F47D5662BD9E7FE0067A9CD /* Preview Content */,
@@ -67,6 +118,60 @@
 				4F47D5672BD9E7FE0067A9CD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4F47D56E2BD9EAFB0067A9CD /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				4F47D5712BD9ECE80067A9CD /* Color.swift */,
+				4F47D5732BD9EEB10067A9CD /* Assets.swift */,
+				4F361DC22BDD16DC000354C8 /* ShadowModifiers.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		4F47D56F2BD9EB060067A9CD /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				4F47D57E2BD9FD3D0067A9CD /* BackgroundShape.swift */,
+				4F47D5822BDA02B40067A9CD /* ProductShape.swift */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+		4F47D5702BD9EB110067A9CD /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				4F47D5782BD9F11D0067A9CD /* IconButtonView.swift */,
+				4F47D57A2BD9F3DD0067A9CD /* CategoryButtonView.swift */,
+				4F47D57C2BD9F72C0067A9CD /* CategoriesView.swift */,
+				4F47D5802BDA01070067A9CD /* FeaturedProductView.swift */,
+				4F47D5872BDA37E70067A9CD /* ProductItemView.swift */,
+				4F361DBA2BDD0209000354C8 /* BackButtonView.swift */,
+				4F361DC02BDD1102000354C8 /* ProductDetailBottomSheet.swift */,
+				4FF0969C2BDEB3AD00EDE4FF /* ButtonView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		4F47D5752BD9EF1F0067A9CD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				4F47D5612BD9E7FC0067A9CD /* ContentView.swift */,
+				4F47D5762BD9EF450067A9CD /* DashboardView.swift */,
+				4F361DBC2BDD027B000354C8 /* ProductDetailView.swift */,
+				4F361DBE2BDD0E20000354C8 /* TestView.swift */,
+				4F361DC42BDD3510000354C8 /* CartView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		4F47D5842BDA2FB60067A9CD /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				4F47D5852BDA2FBE0067A9CD /* ProductModel.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,8 +244,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F47D57D2BD9F72C0067A9CD /* CategoriesView.swift in Sources */,
+				4F361DC82BDD364D000354C8 /* BikeViewModel.swift in Sources */,
+				4F361DBB2BDD0209000354C8 /* BackButtonView.swift in Sources */,
+				4F47D5832BDA02B40067A9CD /* ProductShape.swift in Sources */,
 				4F47D5622BD9E7FC0067A9CD /* ContentView.swift in Sources */,
+				4F361DC12BDD1102000354C8 /* ProductDetailBottomSheet.swift in Sources */,
+				4F361DBF2BDD0E20000354C8 /* TestView.swift in Sources */,
 				4F47D5602BD9E7FC0067A9CD /* Biker_IOSApp.swift in Sources */,
+				4F47D5882BDA37E70067A9CD /* ProductItemView.swift in Sources */,
+				4F361DC32BDD16DC000354C8 /* ShadowModifiers.swift in Sources */,
+				4F47D5772BD9EF450067A9CD /* DashboardView.swift in Sources */,
+				4F47D57B2BD9F3DD0067A9CD /* CategoryButtonView.swift in Sources */,
+				4F47D5812BDA01070067A9CD /* FeaturedProductView.swift in Sources */,
+				4F47D5862BDA2FBE0067A9CD /* ProductModel.swift in Sources */,
+				4F47D57F2BD9FD3D0067A9CD /* BackgroundShape.swift in Sources */,
+				4F361DBD2BDD027B000354C8 /* ProductDetailView.swift in Sources */,
+				4F47D5742BD9EEB10067A9CD /* Assets.swift in Sources */,
+				4F47D5722BD9ECE80067A9CD /* Color.swift in Sources */,
+				4F361DC52BDD3511000354C8 /* CartView.swift in Sources */,
+				4F47D5792BD9F11D0067A9CD /* IconButtonView.swift in Sources */,
+				4FF0969D2BDEB3AD00EDE4FF /* ButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,7 +416,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dev.Biker-IOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -330,7 +455,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dev.Biker-IOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
